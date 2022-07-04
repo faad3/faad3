@@ -1,9 +1,5 @@
-### Hi there 👋
-
-Contact:
-[![e-mail: danilaberezin1@ya.ru](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:danilaberezin1@ya.ru)
-
-
+#### How to reach me:
+[![gmail](https://img.shields.io/badge/-yandex-090909?style=for-the-badge&logo=gmail)](mailto:danilaberezin1@ya.ru)
 
 
 <!--
