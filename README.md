@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:danilaberezin1@ya.ru)
+
+
+
+
 <!--
 **faad3/faad3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
