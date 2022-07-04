@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:danilaberezin1@ya.ru)
+Contact:
+[![e-mail: danilaberezin1@ya.ru](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:danilaberezin1@ya.ru)
 
 
 
