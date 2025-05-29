@@ -1,5 +1,5 @@
 #### How to reach me:
-[![](https://img.shields.io/badge/-yandex-090909?style=for-the-badge&logo=gmail)](mailto:danilaberezin1@ya.ru)
+tg: @cxrtx
 
 
 
